@@ -1,0 +1,9 @@
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.deps.json
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\bin\Debug\netcoreapp2.2\JMusik.Models.pdb
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csprojAssemblyReference.cache
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.csproj.CoreCompileInputs.cache
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfoInputs.cache
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.AssemblyInfo.cs
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.dll
+C:\MisCursos\WebAPI_NetCore3\JMusik\JMusik.Models\obj\Debug\netcoreapp2.2\JMusik.Models.pdb
